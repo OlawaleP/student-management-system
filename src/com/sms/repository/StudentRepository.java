@@ -2,9 +2,9 @@ package main.java.com.sms.repository;
 
 public package com.sms.repository;
 
+import com.sms.expception.DuplicateStudentException;
+import com.sms.expception.StudentNotFoundException;
 import com.sms.model.Student;
-import com.sms.exception.DuplicateStudentException;
-import com.sms.exception.StudentNotFoundException;
 
 import java.util.*;
 

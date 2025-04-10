@@ -1,6 +1,4 @@
-package main.java.com.sms.model;
-
-public package com.sms.model;
+package com.sms.model;
 
 import java.io.Serializable;
 
@@ -54,7 +52,5 @@ public class Course implements Serializable {
     public int hashCode() {
         return Objects.hash(courseCode);
     }
-} {
-  
-}
+} 
 import java.util.Objects;

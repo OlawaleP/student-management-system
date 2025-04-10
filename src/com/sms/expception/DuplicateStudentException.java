@@ -1,11 +1,7 @@
-package main.java.com.sms.expception;
-
-public package com.sms.exception;
+package com.sms.expception;
 
 public class DuplicateStudentException extends Exception {
     public DuplicateStudentException(String message) {
         super(message);
     }
-} {
-  
 }
